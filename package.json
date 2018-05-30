@@ -1,0 +1,17 @@
+{
+  "name": "dev-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "steal-tools bundle --dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "steal": "^1.11.6",
+    "steal-tools": "^1.11.9"
+  }
+}
